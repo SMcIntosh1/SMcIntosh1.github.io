@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="6px" viewBox="0 0 27 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-menu-dots-vertical</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Component-Categories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Explorer-modal:-States" transform="translate(-319.000000, -92.000000)" fill="#FFFFFF">
+            <path d="M332.5,87 C331.119288,87 330,85.8807119 330,84.5 C330,83.1192881 331.119288,82 332.5,82 C333.880712,82 335,83.1192881 335,84.5 C335,85.8807119 333.880712,87 332.5,87 Z M332.5,108 C331.119288,108 330,106.880712 330,105.5 C330,104.119288 331.119288,103 332.5,103 C333.880712,103 335,104.119288 335,105.5 C335,106.880712 333.880712,108 332.5,108 Z M332.5,97.5 C331.119288,97.5 330,96.3807119 330,95 C330,93.6192881 331.119288,92.5 332.5,92.5 C333.880712,92.5 335,93.6192881 335,95 C335,96.3807119 333.880712,97.5 332.5,97.5 Z" id="misc-menu-dots-vertical" transform="translate(332.500000, 95.000000) rotate(-90.000000) translate(-332.500000, -95.000000) "></path>
+        </g>
+    </g>
+</svg>
