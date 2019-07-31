@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>system/done</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system/done" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mask" transform="translate(6.000000, 12.000000)" fill="#000000">
+            <polygon id="Path" points="17.671875 30.3553299 5.484375 16.6497462 0 20.8121827 18.1796875 40 52 6.1928934 46.3125 0"></polygon>
+        </g>
+        <g id="Colors/primary" fill="#25AAE1">
+            <path d="M0,0 L64,0 L64,64 L0,64 L0,0 Z" id="Border"></path>
+        </g>
+    </g>
+</svg>
